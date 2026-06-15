@@ -76,5 +76,17 @@ How long should customer records be retained?
 
 Customer records must be retained for 7 years.
 
+## Run the Project
 
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Create a .env file
+
+GOOGLE_API_KEY=your_api_key
+
+3. Run the application
+
+python app.py
 
